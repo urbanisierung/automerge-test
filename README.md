@@ -1,0 +1,3 @@
+# Automerge Test
+
+Test automerge
