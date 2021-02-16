@@ -2,4 +2,4 @@
 
 Test automerge
 
-Hallo1!
+Hallo2!
